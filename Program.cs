@@ -1,6 +1,7 @@
 ﻿
 
 //ALT SHIFT + F --> IDENÇÃO
+//Comentário teste aula 03
 using System;
 namespace Aula01Variaveis //Namespace SPACE É O ENDEREÇO DE ONDE A CLASSE ESTÁ CONTIDA, E DEVE TER O MESMO NOME QUE O PROJETO (.csproj)
 {
