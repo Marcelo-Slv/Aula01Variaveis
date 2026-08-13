@@ -1,5 +1,4 @@
 ﻿
-
 //ALT SHIFT + F --> IDENÇÃO
 //Comentário teste aula 03
 using System;
@@ -11,10 +10,32 @@ namespace Aula01Variaveis //Namespace SPACE É O ENDEREÇO DE ONDE A CLASSE EST�
     {
         static void Main(string[] args)
         {
-            // ConcatenarPalavras();
-            // CalcularMedia();
-            CalcularTabuada();
+            Console.WriteLine("Observe o menu abaixo e digite o número referente a opção desejada: ");
+            Console.WriteLine("1 - Concatenar Palavras");
+            Console.WriteLine("2 - Verificar Dia da Semana");
+            Console.WriteLine("3 - Calcular Média");
+            Console.WriteLine("4 - Calcular Tabuada");
 
+            int opcaoEscolhida = int.Parse(Console.ReadLine());
+
+            switch (opcaoEscolhida)
+            {
+                case 1:
+                    ConcatenarPalavras();
+                    break;
+                case 2:
+                    VerificarDiaDaSemana();
+                    break;
+                case 3:
+                    CalcularMedia();
+                    break;
+                case 4:
+                    CalcularTabuada();
+                    break;
+                default:
+                    Console.WriteLine("Opção Inválida");
+                    break;
+            }
         }
 
         public static void CalcularTabuada()
@@ -29,10 +50,7 @@ namespace Aula01Variaveis //Namespace SPACE É O ENDEREÇO DE ONDE A CLASSE EST�
                 Console.WriteLine(mensagem);
                 contador++;
             }
-
-
         }
-
 
         public static void CalcularMedia()
         {
@@ -51,8 +69,8 @@ namespace Aula01Variaveis //Namespace SPACE É O ENDEREÇO DE ONDE A CLASSE EST�
                 Console.WriteLine("Esta de recuperação");
             else
                 Console.WriteLine("Reprovado");
-
         }
+
         public static void ConcatenarPalavras()
         {
             Console.WriteLine("Digite seu nome: ");
@@ -74,8 +92,15 @@ namespace Aula01Variaveis //Namespace SPACE É O ENDEREÇO DE ONDE A CLASSE EST�
             Console.WriteLine(cabecalho);
         }
 
+        public static void VerificarDiaDaSemana()
+        {
+            DayOfWeek dia = DateTime.Now.DayOfWeek;
+            Console.WriteLine($"Hoje é: {dia}");
 
-
-
+            if (dia == DayOfWeek.Saturday || dia == DayOfWeek.Sunday)
+                Console.WriteLine("Fim de semana! Não tem aula na ETEC.");
+            else
+                Console.WriteLine("É dia de semana, tem aula na ETEC!");
+        }
     }
 }
