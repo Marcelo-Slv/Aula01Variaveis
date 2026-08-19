@@ -1,0 +1,28 @@
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.exe
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.deps.json
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.runtimeconfig.json
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.dll
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.pdb
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.AssemblyInfoInputs.cache
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.AssemblyInfo.cs
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.dll
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\obj\Debug\net10.0\refint\Aula01Variaveis.dll
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.pdb
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.genruntimeconfig.cache
+D:\PastaLocal\2DS\DS_Luiz-Quiteria\Aula01Variaveis\obj\Debug\net10.0\ref\Aula01Variaveis.dll
+D:\Marcelo 2ds\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.exe
+D:\Marcelo 2ds\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.deps.json
+D:\Marcelo 2ds\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.runtimeconfig.json
+D:\Marcelo 2ds\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.dll
+D:\Marcelo 2ds\Aula01Variaveis\bin\Debug\net10.0\Aula01Variaveis.pdb
+D:\Marcelo 2ds\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marcelo 2ds\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.AssemblyInfoInputs.cache
+D:\Marcelo 2ds\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.AssemblyInfo.cs
+D:\Marcelo 2ds\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+D:\Marcelo 2ds\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.dll
+D:\Marcelo 2ds\Aula01Variaveis\obj\Debug\net10.0\refint\Aula01Variaveis.dll
+D:\Marcelo 2ds\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.pdb
+D:\Marcelo 2ds\Aula01Variaveis\obj\Debug\net10.0\Aula01Variaveis.genruntimeconfig.cache
+D:\Marcelo 2ds\Aula01Variaveis\obj\Debug\net10.0\ref\Aula01Variaveis.dll
